@@ -1,0 +1,11 @@
+simulator:
+  tryCount: 3
+  damaUserName: u13917758779
+  damaPassword: ShareFP123
+  startURL: https://inv-veri.chinatax.gov.cn/
+  
+UI: 
+   headerImgSource: E:\\Tomcat8.5\\webapps\\apiv1\\WEB-INF\\img\\header.png
+   scanImgSource: E:\\Tomcat8.5\\webapps\\apiv1\\WEB-INF\\img\\scan.png
+   inputImgSource: E:\\Tomcat8.5\\webapps\\apiv1\\WEB-INF\\img\\input.png
+
